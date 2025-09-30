@@ -192,7 +192,10 @@ padding-top: 2%;
   font-weight: 580;
    
 }
-
+.cbu{
+  width: 100%;
+  margin-left: -2%;
+}
 
 .florblanca{
 width: 35%;
@@ -257,6 +260,8 @@ margin-top: -17%;
   font-family: 'Julius Sans One', sans-serif;
   background-image: url(./imagenes/papelitos.gif);
   background-size: 55%;
+  text-align: center;
+  text-decoration: none;
 }
 
 .css-button-arrow--sand {
@@ -435,12 +440,12 @@ margin-top: 15%;
   font-size: 30px;
   color: #303030;
   font-weight: 580;
-  margin-top: 15%;
+  margin-top: 30%;
 }
 .coral{
-  width: 45%;
+  width: 40%;
   margin-top: 8%;
-  margin-left: 28%;
+  margin-left: 30%;
 }
 .florfinal{
   width: 25%;
